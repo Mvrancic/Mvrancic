@@ -19,7 +19,7 @@ Interested in backend development, cloud infrastructure, and applied AI.
 | Project | What it is | Stack |
 |---|---|---|
 | [PyQueue](https://github.com/Mvrancic/PyQueue) | Self-hosted task queue: REST API, Redis-backed worker, automatic retries, job state persisted in Postgres | Python, FastAPI, Redis, PostgreSQL, Docker |
-| [vision_artificial_g13](https://github.com/Mvrancic/vision_artificial_g13) | Scene manipulation: perspective placement via homography, object removal via inpainting, monocular depth estimation | Python, OpenCV, MiDaS |
+| [cv-interior-design](https://github.com/Mvrancic/cv-interior-design) | Interior design from a single photo: perspective furniture placement, inpainting removal, depth-based floor plans | Python, OpenCV, MiDaS |
 | [multi-agent-rag](ADD_LINK) | Multi-agent system with a RAG pipeline and a YAML-based policy engine, built without orchestration frameworks | Python, Langfuse, YAML |
 | [Vault](ADD_LINK) | Personal finance desktop app — 🚧 work in progress | Electron, React, FastAPI, PostgreSQL, AWS |
 
